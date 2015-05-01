@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/RubenCordeiro/node-infobip#readme",
   "dependencies": {
+    "bluebird": "^2.9.25",
     "request": "~2.55.0"
   }
 }
