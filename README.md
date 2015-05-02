@@ -1,2 +1,2 @@
-# node-infobip
-Unnoficial javascript Infobip (http://www.infobip.com/) client for node.js
+# node-infobip-sms
+Unnoficial javascript Infobip SMS client for node.js
