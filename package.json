@@ -15,7 +15,11 @@
     "SMS",
     "message"
   ],
-  "author": "Ruben Cordeiro",
+  "author": {
+    "name": "Ruben Fernando Pinto Cordeiro",
+    "email": "ruben.cordeiro.eng@gmail.com",
+    "url": "https://github.com/RubenCordeiro"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RubenCordeiro/node-infobip/issues"
@@ -25,5 +29,10 @@
     "bluebird": "~2.9.25",
     "lodash": "~3.8.0",
     "request": "~2.55.0"
+  },
+  "devDependencies": {
+    "chai": "~2.3.0",
+    "expect": "~1.6.0",
+    "mocha": "~2.2.4"
   }
 }
