@@ -1,7 +1,7 @@
 {
-  "name": "node-infobip",
+  "name": "node-infobip-sms",
   "version": "0.1.0",
-  "description": "Unnoficial infobip API client for node.js",
+  "description": "Unnoficial javascript Infobip SMS client for node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
