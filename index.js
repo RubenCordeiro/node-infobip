@@ -1,1 +1,1 @@
-module.exports = require('./lib/sms.js');
+module.exports = require('./lib/sms');
