@@ -1,6 +1,6 @@
 {
   "name": "node-infobip-sms",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Unnoficial javascript Infobip SMS client for node.js",
   "main": "index.js",
   "scripts": {
